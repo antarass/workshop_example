@@ -25,7 +25,7 @@ button {
 body {
 	font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	line-height: 1.4em;
-	background: #eaeaea; url('bg.png');
+        background: #ff4500; url('bg.png');
 	color: #4d4d4d;
 	width:100%;
 	height:100%;
@@ -39,7 +39,7 @@ body {
 
 #todoapp {
 	width: 550px;
-	background: #fff;
+	background: #ff4500;
 	background: rgba(255, 255, 255, 0.9);
 	margin: 130px 0 40px 0;
 	border: 1px solid #ccc;
